@@ -1,5 +1,4 @@
 import Todos from "./components/Todos";
-import "./App.css";
 import Todo from "./models/todo";
 
 function App() {
